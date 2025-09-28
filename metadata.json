@@ -1,0 +1,5 @@
+{
+  "name": "IPTV Player",
+  "description": "An application to add and play IPTV channels.",
+  "requestFramePermissions": []
+}
